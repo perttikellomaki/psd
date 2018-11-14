@@ -1,0 +1,25 @@
+%
+% $Id: article.bbl,v 1.1 1993/10/08 11:08:32 pk Exp $
+% $Log: article.bbl,v $
+%Revision 1.1  1993/10/08  11:08:32  pk
+%Initial revision
+%
+% Bibliography for psd article.
+%
+\begin{thebibliography}{1}
+
+\bibitem{heymann:simscript-debugger}
+Jurgen Heymann.
+\newblock A 100 \% portable inline-debugger.
+\newblock {\em Sigplan Notices}, 28(9):39--46, September 1993.
+
+\bibitem{edebug}
+Daniel LaLiberte.
+\newblock The edebug package for emacs lisp in the GNU Emacs distribution.
+
+\bibitem{r4rs}
+Jonathan~A. Rees and William~Clinger{,} editors.
+\newblock The revised$^4$ report on the algorithmic language {S}cheme.
+\newblock {\em LISP Pointers}, IV(3):1--55, July--September 1992.
+
+\end{thebibliography}
